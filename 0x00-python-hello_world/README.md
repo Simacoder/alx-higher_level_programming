@@ -1,4 +1,4 @@
-0x00. Python - Hello, World
+# 0x00. Python - Hello, World
 
 Python
 
@@ -12,19 +12,19 @@ Python
 
  An auto review will be launched at the deadline
 
-Concepts
+## Concepts
 
 For this project, we expect you to look at this concept:
 
 
 
-Python programming
+-[Python programing](https://alx-intranet.hbtn.io/concepts/550)
 
 
 
 
 
-Author’s disclaimer
+# Author’s disclaimer
 
 Welcome to the Python world!
 
@@ -72,7 +72,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 
 
-General
+# General
 
 Why Python programming is awesome
 
@@ -94,7 +94,7 @@ What are indexing and slicing in Python
 
 What is the official Python coding style and how to check your code with pycodestyle
 
-Copyright - Plagiarism
+# Copyright - Plagiarism
 
 You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
 
@@ -104,9 +104,9 @@ You are not allowed to publish any content of this project.
 
 Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
-Requirements
+# Requirements
 
-Python Scripts
+## Python Scripts
 
 Allowed editors: vi, vim, emacs
 
@@ -126,7 +126,7 @@ All your files must be executable
 
 The length of your files will be tested using wc
 
-Shell Scripts
+# Shell Scripts
 
 Allowed editors: vi, vim, emacs
 
@@ -140,7 +140,7 @@ The first line of all your files should be exactly #!/bin/bash
 
 All your files must be executable
 
-C Scripts
+## C Scripts
 
 Allowed editors: vi, vim, emacs
 
@@ -222,13 +222,11 @@ Pycodestyle is now the new standard of Python style code
 
 
 
-Quiz questions
 
-Great! You've completed the quiz successfully! Keep going! (Show quiz)
 
 Tasks
 
-0. Run Python file
+# 0. Run Python file
 
 mandatory
 
@@ -300,7 +298,7 @@ File: 1-run_inline
 
    
 
-2. Hello, print
+# 2. Hello, print
 
 mandatory
 
@@ -328,7 +326,7 @@ File: 2-print.py
 
    
 
-3. Print integer
+# 3. Print integer
 
 mandatory
 
@@ -368,7 +366,7 @@ File: 3-print_number.py
 
    
 
-4. Print float
+# 4. Print float
 
 mandatory
 
@@ -406,7 +404,7 @@ File: 4-print_float.py
 
    
 
-5. Print string
+# 5. Print string
 
 mandatory
 
@@ -450,7 +448,7 @@ File: 5-print_string.py
 
    
 
-6. Play with strings
+# 6. Play with strings
 
 mandatory
 
@@ -472,7 +470,7 @@ Welcome to Holberton School!
 
 guillaume@ubuntu:~/py/0x00$ wc -l 6-concat.py
 
-5 6-concat.py
+# 5 6-concat.py
 
 guillaume@ubuntu:~/py/0x00$ 
 
@@ -488,7 +486,7 @@ File: 6-concat.py
 
    
 
-7. Copy - Cut - Paste
+# 7. Copy - Cut - Paste
 
 mandatory
 
@@ -518,7 +516,7 @@ Middle word: olberto
 
 guillaume@ubuntu:~/py/0x00$ wc -l 7-edges.py
 
-8 7-edges.py
+# 8 7-edges.py
 
 guillaume@ubuntu:~/py/0x00$ 
 
@@ -534,7 +532,7 @@ File: 7-edges.py
 
    
 
-8. Create a new sentence
+# 8. Create a new sentence
 
 mandatory
 
@@ -574,7 +572,7 @@ File: 8-concat_edges.py
 
    
 
-9. Easter Egg
+# 9. Easter Egg
 
 mandatory
 
@@ -642,7 +640,7 @@ File: 9-easter_egg.py
 
    
 
-10. Linked list cycle
+# 10. Linked list cycle
 
 mandatory
 
@@ -997,3 +995,7 @@ GitHub repository: alx-higher_level_programming
 Directory: 0x00-python-hello_world
 
 File: 10-check_cycle.c, lists.h
+
+## Author's 
+Simanga Mchunu
+- [@Simacoder](https://github.com/Simacoder)
