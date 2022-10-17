@@ -2,8 +2,11 @@
 """
 A rectangle class.
 """
+
+
 class Rectangle:
     """
     Rectangle functions and data
     """
+
     pass
